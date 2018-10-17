@@ -1,7 +1,7 @@
 # Ginga
 
 Ginga is the first step of the CAPOEIRA to bring one step closer personalised oncology. Ginga is a pipeline base on state of the art genomic tools that are seemlesly integrated in a single streamline pipeline.
-Ginga translates whole exome sequencing (WES) data from patients into a library of specific neoantigens that can 
+Ginga translates whole exome sequencing (WES) data from patients into a library of specific neoantigens with the goal to create a personalised therapy that its effective at targeting uniquely the cancer cells.
 
 ## Getting Started
 
@@ -9,11 +9,27 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-[I'm an inline-style link](https://www.google.com)
+[libpng 1.6.35](http://www.libpng.org/pub/png/libpng.html)
+```
+sudo apt-get install libpng-dev
+```
+[zlib 1.2.11](https://zlib.net/)
+```
+sudo apt-get install zlib1g-dev
+```
+
+[libzip  1.5.1](https://libzip.org/)
 
 ```
-Give examples
+sudo apt-get install libbz2-dev
 ```
+
+[libzip  1.5.1](https://libzip.org/)
+
+```
+sudo apt-get install libbz2-dev
+```
+
 
 ### Installing
 
