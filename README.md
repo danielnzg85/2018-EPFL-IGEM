@@ -1,9 +1,7 @@
 # Ginga
 
-![](https://github.com/danielnzg85/2018-EPFL-IGEM/blob/master/Media/Ginga_logo.png)
-
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://github.com/danielnzg85/2018-EPFL-IGEM/blob/master/Media/Ginga_logo.png">
 </p>
 
 Ginga is the first step of the CAPOEIRA to bring one step closer personalised oncology. Ginga is a pipeline base on state of the art genomic tools that are seemlesly integrated in a single streamline pipeline.
