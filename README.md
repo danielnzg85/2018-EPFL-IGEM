@@ -53,13 +53,18 @@ sudo apt-get install libbz2-dev
 ## Packages 
 
 [Trimmomatic 0.38](http://www.usadellab.org/cms/?page=trimmomatic)
-[BWA 0.7.17](https://sourceforge.net/projects/bio-bwa/files/)
-[Samtools 1.9](http://samtools.sourceforge.net/)
-[Picard Tools 2.18.14](https://github.com/broadinstitute/picard/releases/tag/2.18.14)
-[GATK 4.0.9.0](https://software.broadinstitute.org/gatk/)
-[Annovar 2018Apr16](http://annovar.openbioinformatics.org/en/latest/)
-[NetMHC 4.0](http://www.cbs.dtu.dk/services/NetMHC/)
 
+[BWA 0.7.17](https://sourceforge.net/projects/bio-bwa/files/)
+
+[Samtools 1.9](http://samtools.sourceforge.net/)
+
+[Picard Tools 2.18.14](https://github.com/broadinstitute/picard/releases/tag/2.18.14)
+
+[GATK 4.0.9.0](https://software.broadinstitute.org/gatk/)
+
+[Annovar 2018Apr16](http://annovar.openbioinformatics.org/en/latest/)
+
+[NetMHC 4.0](http://www.cbs.dtu.dk/services/NetMHC/)
 
 
 
