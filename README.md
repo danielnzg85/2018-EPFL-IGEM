@@ -1,6 +1,6 @@
 # Ginga
 
-![alt text](https://github.com/danielnzg85/2018-EPFL-IGEM/blob/master/Media/Ginga_logo_17-10_SF.png=100x20)
+![alt text](https://github.com/danielnzg85/2018-EPFL-IGEM/blob/master/Media/Ginga_logo_17-10_SF.png =100x20)
 
 Ginga is the first step of the CAPOEIRA to bring one step closer personalised oncology. Ginga is a pipeline base on state of the art genomic tools that are seemlesly integrated in a single streamline pipeline.
 Ginga translates whole exome sequencing (WES) data from patients into a library of specific neoantigens with the goal to create a personalised therapy that its effective at targeting uniquely the cancer cells.
