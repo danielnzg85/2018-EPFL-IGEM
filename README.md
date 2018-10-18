@@ -13,7 +13,7 @@ Ginga can output multiple metrics that are key to fully treat and diagnose cance
 * A library of tumor short DNA sequences containing SNPs --> These short sequences can be found in the blood in the form of ctDNA and can be targeted using CAPOERA's detection system to monitor the effectivity of the vaccine. 
 * A set of tumor specific chromosomal rearrangements (CR) --> Concentration of CRs found in the ctDNA of the patient can indicate the state of the cancer and if there is relapse.
 
-Ginga's Pipeline:
+# Ginga's Pipeline:
 ![](https://github.com/danielnzg85/2018-EPFL-IGEM/blob/master/Media/Tree_Bioinfo_Dani_17-10_SF.png)
 
 ## Getting Started
